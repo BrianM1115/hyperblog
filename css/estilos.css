@@ -16,7 +16,7 @@ body
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5;
+    padding: 0.5em;
 }
 
 #cabecera #logo
@@ -49,7 +49,7 @@ body
 #post
 {
     background: white;
-    padding: lem;
+    padding: 1em;
 
 }
 
